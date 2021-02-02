@@ -1,5 +1,5 @@
 # BEM-opgave
-Beskrivelse til hvad sker i Matt Stauffer videoen.
+Beskrivelse til hvad der sker i Matt Stauffer videoen.
 
 3.50-4.00: Object-oriented code; han beskriver som en masse cirkler af objecter, som alle sammen arbejder sammen.
 
